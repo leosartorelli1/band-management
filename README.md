@@ -1,6 +1,6 @@
 # BAND MANAGEMENT 
 
-Band management é um sistema para gerenciamento de bandas músicais. Nele, você pode adicionar, remover e editar bandas, estilos e integrantes das bandas. Nesta aplicação web, foi utilizado o HTML e CSS para o front-end e o PHP como o back-end.
+Band management é um sistema para gerenciamento de bandas musicais. Nele, você pode adicionar, remover e editar bandas, estilos e integrantes das bandas. Nesta aplicação web, foi utilizado o HTML e CSS para o front-end e o PHP como o back-end.
 
 ## INSTRUÇÕES FRONT-END (HTML-CSS)
 BACK-END (PHP – CLASSE – CRUD)
